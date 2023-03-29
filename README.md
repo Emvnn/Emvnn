@@ -32,7 +32,7 @@
   
 
 
-<h2 align="center">Github stats :bar_chart:</h2>
+
 
 <h4 align="center">Visitor's count </h4>
 
@@ -40,7 +40,8 @@
 
 <h4 align="center">Top langs </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emvnn_count=10&theme=tokyonight&layout=compact" alt="Emvnn :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emvnn&langs_count=10&theme=tokyonight&layout=compact" alt="Emvnn :: Top Langs" /></p>
+
 
 <h4 align="center">Profile stats </h4>
 
