@@ -34,9 +34,6 @@
 
 
 
-<h4 align="center">Visitor's count </h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Emvnn}/count.svg" alt="Emvnn :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs </h4>
 
